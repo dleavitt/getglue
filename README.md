@@ -1,12 +1,14 @@
-# Getglue
+# GetGlue
 
 Minimal GetGlue API client. Built on [HTTParty](https://github.com/jnunemaker/httparty).
+
+Support OAuth and V2 API.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'getglue'
+    gem 'getglue', :git => 'git@github.com:dleavitt/politifact.git'
 
 And then execute:
 
